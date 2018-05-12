@@ -1,0 +1,29 @@
+_repo: Peter-Piper-s-Practical-Principles-of-Plain-and-Perfect-Pronunciation_25027
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2008-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25027'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alphabet books'
+- !lcc 'PZ'
+- !lcsh 'Tongue twisters'
+title: Peter Piper's Practical Principles of Plain and Perfect Pronunciation
+url: http://www.gutenberg.org/ebooks/25027
